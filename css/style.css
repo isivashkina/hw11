@@ -260,6 +260,8 @@ a {
 }
 .slider {
   max-width: 1320px;
-  
-  text-align:center;
+  margin: 0px auto;
+}
+.slider img{
+	margin: auto;
 }
